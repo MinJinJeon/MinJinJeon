@@ -1,6 +1,21 @@
 
 # JEON MIN JIN😉
 
+> 🎮 **무료 학습·아케이드 게임 플랫폼 [studyplay.kr](https://studyplay.kr) 을 기획·개발·운영하고 있습니다.**
+
+가입 없이 즐기는 HTML5 게임 17종과, 공공데이터·LLM을 활용한 AI 진로 추천 기능까지 — 기획부터 배포·운영까지 1인으로 만들어가는 서비스입니다.
+
+### 🚀 [studyplay.kr](https://studyplay.kr) — 직접 만든 풀스택 서비스
+
+- 🕹️ **무료 게임 플랫폼** : 수학·영어·한국사·음악 등 교육 게임부터 체스·타워디펜스까지 **17종**, 가입·설치 없이 브라우저에서 바로 플레이
+- 🧭 **AI 커리어 내비게이터** : **NCS 국가직무능력표준 공공데이터 + LLM(Llama)** 기반으로 직무·자격·훈련 로드맵을 분석하고, 결이 맞는 학습 게임까지 매칭 — 결과는 **실시간 스트리밍**으로 생성
+- 🌐 **EN/KR 다국어** : UI는 물론 AI 응답까지 언어에 맞춰 생성
+- 🛠️ **Stack** : `Vue 3` `Node.js(Express)` `Python(FastAPI)` `PostgreSQL` `Nginx` `PM2` · Naver Cloud 직접 운영
+
+🔗 **[지금 바로 보기 → studyplay.kr](https://studyplay.kr)**
+
+---
+
 ![MinDing2's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinJinJeon&show_icons=true&theme=radical)
 ![Programmers](https://studyplay.kr/badge/card)
 
