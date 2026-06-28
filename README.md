@@ -5,6 +5,8 @@
 
 ![MinDing2's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinJinJeon&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=youvcc)](https://solved.ac/youvcc/)
+[![Programmers](https://img.shields.io/badge/Programmers-Lv.3-3949AB?style=flat&logo=programmers&logoColor=white)](https://programmers.co.kr/https://programmers.co.kr/users/profile)
+
 # 💪Skills
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
